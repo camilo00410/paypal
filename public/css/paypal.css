@@ -1,0 +1,9 @@
+body{
+    font-size: 20px;
+    min-width: 960px;
+    margin: auto;
+}
+
+#paypal-button-container {
+    display: none;
+}
